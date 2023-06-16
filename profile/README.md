@@ -9,7 +9,7 @@ The development team is committed to the long-term and continuous development of
 - 初步实现了简单解析流场/均匀各向同性湍流中颗粒两相流问题，实现了颗粒的单向/三向耦合过程，目前正在进一步优化颗粒与流体的求解结构。
 - Preliminary implementation of particle-laden flows in simple flow field and homogeneous isotropic turbulence. Particle couplings, including one-way and three-way coupling, have been implemented. Currently, further optimization of the solution framworks for particles and fluids is in progress.
 - 下一步将完善点颗粒模型（非球形颗粒，游动颗粒，智能粒子），丰富求解器类型（谱/差分槽道/边界层求解程序、浸没边界法）。
-- The next step will involve improving the particle models (non-spherical particles, swimming particles, intelligent particles) and enriching the solvers (spectral/difference channel/boundary layer, immersed boundary method, and so on).
+- The next step will involve improving the particle models (non-spherical particles, swimming particles, smart particles) and enriching the solvers (spectral/difference channel/boundary layer, immersed boundary method, and so on).
 - 发布计划：2023年底实现课题组内测，2024年上半年，同行合作者小范围测试.
 - Release plan: Internal testing within the research group by the end of 2023, followed by small-scale testing with peer collaborators in the first half of 2024.
 
