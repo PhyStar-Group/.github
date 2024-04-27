@@ -36,8 +36,8 @@ What kind of developers are we looking for to join the team?
 - Proficiency in C/C++, familiarity with Fortran, Python, Julia, Matlab, and other mainstream scientific research programming languages.
 - 具有流体力学/固体力学/多物理场/多相流/颗粒流/机器学习等相关问题的研究背景.
 - Research background in fluid mechanics, solid mechanics, multiphysics, multiphase flow, particle flow, machine learning, or related fields.
-- 具有开源精神，积极乐观，有责任.
-- Possessing an open-source spirit, being proactive, optimistic, and responsible.
+- 具有合作精神，积极乐观，有责任.
+- Possessing a good team spirit, being proactive, optimistic, and responsible.
 
 The above translations are partially done by ChatGPT.
 <!--
