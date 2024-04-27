@@ -1,8 +1,8 @@
 # 欢迎来到PhyStar开发团队主页 /Welcome to the PhyStar Development Team Homepage
 
-开发团队将对PhyStar程序平台项目进行长期持续开发，目标在五年内（2023-2027年）建成为一个半开源/全开源的复杂多物理场（流场、多相、多组分、流固耦合等）求解程序平台。方便相关领域科学家与爱好者自由开展相关研究。
+开发团队将对PhyStar程序平台项目进行长期持续开发，目标在五年内（2023-2027年）建成为一个半开源的复杂多物理场（流场、多相、多组分、流固耦合等）求解程序平台。方便相关领域科学家与爱好者自由开展相关研究。
 
-The development team is committed to the long-term and continuous development of the PhyStar project. The goal is to build a partially open-source/fully open-source to solve complex multiphysics fields (including flow fields, multiphase, multicomponent, fluid-structure interactions, etc.) within five years (2023-2027). This platform aims to facilitate research activities for scientists and enthusiasts in relevant fields.
+The development team is committed to the long-term and continuous development of the PhyStar project. The goal is to build a partially open-source to solve complex multiphysics fields (including flow fields, multiphase, multicomponent, fluid-structure interactions, etc.) within five years (2023-2027). This platform aims to facilitate research activities for scientists and enthusiasts in relevant fields.
 
 
 ## 进展/Progress
